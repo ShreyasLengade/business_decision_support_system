@@ -1,5 +1,5 @@
 # ImpactAnalysis-COVID19-GlobalTravel: A Data-Driven DSS on Pandemic's Effect on the Air Travel Industry
-This project utilizes the OpenSky Network dataset to analyze the COVID-19 pandemic's impact on the global trhttps://github.com/ShreyasLengade/business_decision_support_system/blob/main/README.mdavel industry. By comparing air traffic data from 2019, 2020, and 2021, our Data-Driven Decision Support System (DSS) aims to uncover the pandemic’s effects on airlines, aircraft usage, and regional flight dynamics, enhancing our understanding of how travel patterns have adapted in response to the crisis.
+This project utilizes the OpenSky Network dataset to analyze the COVID-19 pandemic's impact on the global travel industry. By comparing air traffic data from 2019, 2020, and 2021, our Data-Driven Decision Support System (DSS) aims to uncover the pandemic’s effects on airlines, aircraft usage, and regional flight dynamics, enhancing our understanding of how travel patterns have adapted in response to the crisis.
 
 ## Contributors:
 <ol>
